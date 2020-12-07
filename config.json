@@ -1,6 +1,6 @@
 {
-  "tokens": [],
-  "secret_code": "",
+  "tokens": ["8248797724951c286dc10f62c9c40f229c72436bd71ffeb1885f1c80be42cead810791bcbf454e085baf7","9d3e517929deb901c3bc658640874ae19bf18ef5c34be95c4d41bbec6a346dd8b75883ce31600c8d76fa0","75d523367c7cb1d3dfcdadd4391f7310295d6a3df601c5ae1db561a58afd33b14496a7821580916080b55"],
+  "secret_code": "ds4ikqma1",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
@@ -12,8 +12,8 @@
     ".слп"
   ],
   "self_prefixes": [
-    "!л",
-    ".л"
+    "лц",
+    "лизка"
   ],
   "duty_prefixes": [
     "!лд",
